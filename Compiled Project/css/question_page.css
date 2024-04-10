@@ -1,0 +1,23 @@
+* {
+    text-align: center;
+}
+
+h1 {
+    margin: auto;
+    width: 640px; 
+    padding: 20px;
+    font-family: 'Lexend Deca', sans-serif; 
+    font-size: 300%;
+  }
+
+h2 {
+   
+    font-weight: 800;
+      
+  }
+
+h3 {
+    font-weight: 600;
+}
+
+  body {font-size: 200%;}

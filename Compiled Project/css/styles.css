@@ -1,0 +1,23 @@
+.results {
+    text-align: center;
+    margin: 0;
+    width: 500px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    background-color: antiquewhite;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.info {
+    padding: 20px;
+}
+
+#score-gif {
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
